@@ -1,0 +1,14 @@
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\bin\Debug\net9.0\Exercíciosnº02Atividades3.exe
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\bin\Debug\net9.0\Exercíciosnº02Atividades3.deps.json
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\bin\Debug\net9.0\Exercíciosnº02Atividades3.runtimeconfig.json
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\bin\Debug\net9.0\Exercíciosnº02Atividades3.dll
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\bin\Debug\net9.0\Exercíciosnº02Atividades3.pdb
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.AssemblyInfoInputs.cache
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.AssemblyInfo.cs
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.csproj.CoreCompileInputs.cache
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.dll
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\refint\Exercíciosnº02Atividades3.dll
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.pdb
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\Exercíciosnº02Atividades3.genruntimeconfig.cache
+C:\Users\54590704811\Desktop\BackEnd_T\Exercíciosnº02Atividades3\obj\Debug\net9.0\ref\Exercíciosnº02Atividades3.dll
