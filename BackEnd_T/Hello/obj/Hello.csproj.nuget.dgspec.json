@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\Hello\\Hello.csproj": {}
+    "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\Hello\\Hello.csproj": {
+    "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\Hello\\Hello.csproj",
+        "projectUniqueName": "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\Hello\\Hello.csproj",
+        "projectPath": "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\54590704811\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\Hello\\obj\\",
+        "outputPath": "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\54590704811\\AppData\\Roaming\\NuGet\\NuGet.Config"

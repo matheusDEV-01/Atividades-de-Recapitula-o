@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\desafioCalc\\desafioCalc.csproj",
+      "projectUniqueName": "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\desafioCalc\\desafioCalc.csproj",
       "projectName": "desafioCalc",
-      "projectPath": "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\desafioCalc\\desafioCalc.csproj",
+      "projectPath": "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\desafioCalc\\desafioCalc.csproj",
       "packagesPath": "C:\\Users\\54590704811\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54590704811\\Desktop\\BackEnd_T\\desafioCalc\\obj\\",
+      "outputPath": "C:\\Users\\54590704811\\Desktop\\Atividades-de-Recapitula-o\\BackEnd_T\\desafioCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54590704811\\AppData\\Roaming\\NuGet\\NuGet.Config"
