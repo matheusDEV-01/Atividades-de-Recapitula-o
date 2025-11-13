@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Exercicio02
+{
+      public class Gerente : Funcionario
+    {
+        public double Bonus { get; set; }
+
+        public Gerente(string nome, double salarioBase, double bonus)
+            : base(nome, salarioBase)
+        {
+            Bonus = bonus;
+        }
+
+        public override double CalcularSalario()
+        {
+            return SalarioBase + Bonus;
+        }
+    }
+}

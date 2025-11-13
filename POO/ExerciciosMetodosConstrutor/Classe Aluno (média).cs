@@ -27,7 +27,7 @@ namespace ExerciciosMetodosConstrutor
         public void media()
         {
             double media = (n1 + n2 + n3) / 3;
-            System.Console.WriteLine($"A média do (a) {nome}, foi {media}😗❤️😍");
+            System.Console.WriteLine($"A média do (a) {nome}, foi {media}❤️");
         }
     }
 }
