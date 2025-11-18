@@ -1,0 +1,15 @@
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\bin\Debug\net9.0\Exercício2.exe
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\bin\Debug\net9.0\Exercício2.deps.json
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\bin\Debug\net9.0\Exercício2.runtimeconfig.json
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\bin\Debug\net9.0\Exercício2.dll
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\bin\Debug\net9.0\Exercício2.pdb
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.AssemblyInfoInputs.cache
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.AssemblyInfo.cs
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.csproj.CoreCompileInputs.cache
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.sourcelink.json
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.dll
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\refint\Exercício2.dll
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.pdb
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\Exercício2.genruntimeconfig.cache
+C:\Users\54590704811\Desktop\Atividades-de-Recapitula-o\POO\Pilares\Interface\ExercíciosInterface\Exercício2\obj\Debug\net9.0\ref\Exercício2.dll
