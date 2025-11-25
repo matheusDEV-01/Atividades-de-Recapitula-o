@@ -5,56 +5,52 @@ using System.Threading.Tasks;
 
 namespace Encapsulamento
 {
-public class Carro
-{
-    private string marca = "";
-    private string modelo = "";
-    private int velocidadeAtual;
-
-    public void DefinirMarca(string valor)
+    public class Carro
     {
-        marca = valor;
-    }
+        private string marca = "";
+        private string modelo = "";
+        private int velocidadeAtual;
 
-    public string ObterMarca()
-    {
-        return marca;
-    }
-
-    public void DefinirModelo(string valor)
-    {
-        modelo = valor;
-    }
-
-    public string ObterModelo()
-    {
-        return modelo;
-    }
-
-    public int ObterVelocidade()
-    {
-        return velocidadeAtual;
-    }
-
-    public void Acelerar(int valor)
-    {
-        if (valor > 0)
+        public void DefinirMarca(string valor)
         {
-            velocidadeAtual += valor;
+            marca = valor;
         }
-    }
 
-    public void Frear(int valor)
-    {
-        if (valor > 0)
+        public string ObterMarca()
         {
-            velocidadeAtual -= valor;
+            return marca;
+        }
 
-            if (velocidadeAtual < 0)
+        public void DefinirModelo(string valor)
+        {
+            modelo = valor;
+        }
+
+        public string ObterModelo()
+        {
+            return modelo;
+        }
+
+        public int ObterVelocidade()
+        {
+            return velocidadeAtual;
+        }
+
+        public void Acelerar(int valor)
+        {
+            if (valor > 0)
             {
-                velocidadeAtual = 0;
+                velocidadeAtual += valor;
             }
         }
+
+        public void Frear(int valor)
+        {
+            if (valor > 0)
+            {
+                velocidadeAtual -= valor;
+            }
+
+        }
     }
-}
 }

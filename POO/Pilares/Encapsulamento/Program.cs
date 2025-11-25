@@ -15,14 +15,14 @@
 // Console.WriteLine($"Saldo atualizado da conta: R$:{contaMath.GetSaldo()}");
 // Console.WriteLine($"Saldo da conta : R$:{contaEdu.GetSaldo()}");
 
-Carro meuCarro = new Carro();
+Carro c1 = new Carro();
 
-meuCarro.DefinirMarca("Toyota");
-meuCarro.DefinirModelo("Corolla");
+c1.DefinirMarca("Toyota");
+c1.DefinirModelo("Corolla");
 
-meuCarro.Acelerar(50);
-meuCarro.Frear(30); // aqui deve zerar a velocidade
+c1.Acelerar(40);
+c1.Frear(20); 
 
-Console.WriteLine("Marca: " + meuCarro.ObterMarca());
-Console.WriteLine("Modelo: " + meuCarro.ObterModelo());
-Console.WriteLine("Velocidade Atual: " + meuCarro.ObterVelocidade());
+Console.WriteLine($"Marca: {c1.ObterMarca()}");
+Console.WriteLine($"Modelo: {c1.ObterModelo()}");
+Console.WriteLine($"Velocidade Atual:{c1.ObterVelocidade()}");
